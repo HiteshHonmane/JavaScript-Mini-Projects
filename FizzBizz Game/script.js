@@ -23,3 +23,6 @@ function FizzBuzz() {
     
 }
 FizzBuzz();
+
+
+document.querySelector(".input-id").addEventListener

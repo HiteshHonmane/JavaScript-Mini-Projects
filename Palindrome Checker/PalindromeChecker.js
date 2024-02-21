@@ -6,10 +6,9 @@ let a = 'rohor'
 
 function PalindromeChecker(str){
 
-
     reversedstr = str.split('').reverse().join('')
 
-    return reversestr == str
+    return reversedstr == str
 
 }
 if (PalindromeChecker(a)){
